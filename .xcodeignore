@@ -1,0 +1,11 @@
+# Exclude PHP files and dependencies from iOS build
+*.php
+vendor/
+composer.json
+composer.lock
+composer.phar
+phpunit.xml
+.phpunit.cache/
+src/
+tests/
+README.md 
